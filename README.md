@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @monkey1992
-- 👀 I’m interested in running
-- 🌱 I’m currently learning WebRTC and FFmpeg
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yuriyshea@163.com
+-Hi, I’m @monkey1992
+-I’m interested in pure music, running, FPS shooting games...
+-I’m currently learning WebRTC and FFmpeg
+-You can contact me by email yuriyshea@163.com
 
 <!---
 monkey1992/monkey1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
