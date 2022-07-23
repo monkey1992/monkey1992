@@ -1,6 +1,6 @@
 + Hi, I’m @monkey1992
 + I’m interested in pure music, running, FPS shooting games...
-+ I’m currently learning WebRTC and FFmpeg
++ I’m currently learning design patterns, WebRTC and FFmpeg
 + You can contact me by email yuriyshea@163.com
 
 [![monkey1992's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkey1992)](https://github.com/anuraghazra/github-readme-stats)
